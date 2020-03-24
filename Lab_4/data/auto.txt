@@ -1,0 +1,5 @@
+1	1.6	140	"transmission1"	2	1
+2	1.8	160	"transmission2"	3	2
+3	2.0	180	"transmission3"	5	4
+4	2.5	250	"transmission4"	4	3
+5	3.0	340	"transmission5"	1	5
